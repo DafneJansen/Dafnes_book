@@ -20,13 +20,23 @@
     ]
   },
   {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "2  A new chapter",
+    "section": "",
+    "text": "HI!!!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A new chapter</span>"
+    ]
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "3  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
@@ -37,16 +47,6 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
-    ]
-  },
-  {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "2  A new chapter",
-    "section": "",
-    "text": "HI!!!",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A new chapter</span>"
     ]
   }
 ]
